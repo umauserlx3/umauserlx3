@@ -1,12 +1,1 @@
-- Oi, sou a @umauserlx3 🌹
-- (Hi, i'm @umauserlx3 🌹)
-- sou interessada em tudo 👍
-- (I'm interested in everything) 
-- Estou na escola; Estou aprendendo inglês e francês 
-- (I'm at school; I'm learning english and french)
-- sonho: morar no canadá e ser programadora
-- (dream: living in canada and being a programmer)
-- amo preto.. 🖤
-- (love black.. 🖤) 
-- brasileira 🇧🇷
-- (brazilian)
+
